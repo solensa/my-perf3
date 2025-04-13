@@ -13,7 +13,7 @@ export default function Home() {
               src="/flow-line2.png"
               alt="Flow line"
               width={150}
-              height={800}
+              height={1214}
               className="h-[1214px;] w-auto object-contain"
               priority
             />
