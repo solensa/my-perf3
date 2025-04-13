@@ -6,7 +6,7 @@ export default function Home() {
     <main className="min-h-screen  relative overflow-hidden">
       {/* Centered content container */}
       <div className="container mx-auto px-4 py-0 flex justify-center">
-        <div className="flex max-w-5xl relative">
+        <div className="flex max-w-[1024px] relative">
           {/* Flow line - bottom layer */}
           <div className="relative w-[150px] flex-shrink-0 z-0">
             <Image
@@ -14,7 +14,7 @@ export default function Home() {
               alt="Flow line"
               width={150}
               height={800}
-              className="h-full w-auto object-contain"
+              className="h-[1214px;] w-auto object-contain"
               priority
             />
           </div>
