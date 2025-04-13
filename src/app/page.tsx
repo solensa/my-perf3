@@ -58,9 +58,9 @@ export default function Home() {
               <div className="bg-white rounded-lg p-6 hover:shadow-[0_0_20px_rgba(250,204,21,0.8)] transition-shadow duration-300">
                 <h2 className="font-semibold text-lg text-black">Schedule a Review Meeting</h2>
                 <p className="text-sm my-2 text-black">
-                  Prepare using LOR Learn resources including colleague and manager guides. It's
-                  important for everyone to prepare for their conversation and to understand the
-                  process.
+                  Prepare using LOR Learn resources including colleague and manager guides.
+                  It&apos;s important for everyone to prepare for their conversation and to
+                  understand the process.
                 </p>
                 <div className="mt-4 flex gap-4">
                   <Link
@@ -103,12 +103,12 @@ export default function Home() {
                   Update Your SuccessFactors Profile
                 </h2>
                 <p className="text-sm my-2 text-black">
-                  Update your SuccessFactors profile for career possibilities. We want everyone's
-                  career to benefit from the pipeline of exciting projects secured. By updating your
-                  profile on SuccessFactors, our People team will have the most up to date picture
-                  of your experience and skills to inform the business to plan resource on future
-                  projects. Click here to complete your sector experience, location preferences and
-                  to add your most recent CV.
+                  Update your SuccessFactors profile for career possibilities. We want
+                  everyone&apos;s career to benefit from the pipeline of exciting projects secured.
+                  By updating your profile on SuccessFactors, our People team will have the most up
+                  to date picture of your experience and skills to inform the business to plan
+                  resource on future projects. Click here to complete your sector experience,
+                  location preferences and to add your most recent CV.
                 </p>
                 <div className="mt-4">
                   <Link
