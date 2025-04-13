@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-black relative overflow-hidden">
+    <main className="min-h-screen  relative overflow-hidden">
       {/* Centered content container */}
       <div className="container mx-auto px-4 py-0 flex justify-center">
         <div className="flex max-w-5xl relative">
