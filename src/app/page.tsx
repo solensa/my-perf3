@@ -8,14 +8,15 @@ export default function Home() {
       <div className="container mx-auto px-4 py-0 flex justify-center">
         <div className="flex max-w-[1024px] relative">
           {/* Flow line - bottom layer */}
-          <div className="relative w-[150px] flex-shrink-0 z-0">
+          <div className="relative w-[150px] h-[1214px] flex-shrink-0 z-0">
             <Image
               src="/flow-line2.png"
               alt="Flow line"
               width={150}
-              height={1214}
-              className="h-[1214px;] w-auto object-contain"
+              height={1200}
+              className="w-[150px] h-[1214px] object-contain"
               priority
+              style={{ maxWidth: "150px", maxHeight: "1214px" }}
             />
           </div>
 
