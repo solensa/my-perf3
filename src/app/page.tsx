@@ -10,7 +10,7 @@ export default function Home() {
           {/* Flow line - bottom layer */}
           <div className="relative w-[150px] h-[1214px] flex-shrink-0 z-0">
             <Image
-              src="/flow-line2.png"
+              src="/flow-line2.svg"
               alt="Flow line"
               width={150}
               height={1200}
