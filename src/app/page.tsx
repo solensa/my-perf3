@@ -57,7 +57,9 @@ export default function Home() {
 
               {/* Card 2 */}
               <div className="bg-white rounded-lg p-6 hover:shadow-[0_0_20px_rgba(250,204,21,0.8)] transition-shadow duration-300">
-                <h2 className="font-semibold text-lg text-black">Schedule a Review Meeting</h2>
+                <h2 className="font-semibold text-lg text-black">
+                  Prepare for your Review Meeting
+                </h2>
                 <p className="text-sm my-2 text-black">
                   Prepare using LOR Learn resources including colleague and manager guides.
                   It&apos;s important for everyone to prepare for their conversation and to
@@ -83,7 +85,9 @@ export default function Home() {
 
               {/* Card 3 */}
               <div className="bg-white rounded-lg p-6 hover:shadow-[0_0_20px_rgba(250,204,21,0.8)] transition-shadow duration-300">
-                <h2 className="font-semibold text-lg text-black">Register for a LIVE Webinar</h2>
+                <h2 className="font-semibold text-lg text-black">
+                  Register for a Manager LIVE Webinar
+                </h2>
                 <p className="text-sm my-2 text-black">
                   Register for a LIVE manager webinar on performance reviews and goal setting.
                 </p>
