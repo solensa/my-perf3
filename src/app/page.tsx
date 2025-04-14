@@ -80,6 +80,13 @@ export default function Home() {
                   >
                     Manager Guide
                   </Link>
+                  <Link
+                    href="https://performancemanager5.successfactors.eu/sf/home?company=LORProd&_s.crb=tx0mWvi2iDhIOvv8tl7a%252fPTKPa1PqzpPYKHMbFvnFFM%253d"
+                    target="_blank"
+                    className="inline-block bg-yellow-400 hover:bg-yellow-500 text-black font-medium px-6 py-2 rounded-md text-sm"
+                  >
+                    Access Your Form
+                  </Link>
                 </div>
               </div>
 
